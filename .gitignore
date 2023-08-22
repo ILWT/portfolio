@@ -1,0 +1,6 @@
+# ignore 'initial' folder
+/initial
+# ignore .ipynb_checkpoints folders
+.ipynb_checkpoints
+# ignore datasets
+*.csv
