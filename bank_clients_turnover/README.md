@@ -8,7 +8,7 @@
 - **python**
 - **pandas**
 - **matplotlib**
-- sklearn.linearmo_model.**LogisticRegression**
+- sklearn.linear_model.**LogisticRegression**
 - sklearn.tree.**DecisionTreeClassifier**
 - sklearn.ensemble.**RandomForestClassifier**
 - sklearn.preprocessing.**StandardScaler**
