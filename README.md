@@ -1,5 +1,7 @@
 # Portfolio
 
+Контакты для связи: <a href="mailto:ronin.nikita@yaprimarlyndex.ru">ronin.nikita@yandex.ru</a> / [Telegram](https://t.me/ronin_nikita).
+
 Здесь собраны проекты, выполненные в рамках курса "Специалист по Data Science" от Яндекс.Практикума.
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
